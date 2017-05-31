@@ -172,7 +172,9 @@ SRC_C = \
 	modsocket.c \
 	modesp.c \
 	espneopixel.c \
+	machine_rtc.c \
 	network_bluetooth.c \
+
 	machine_hw_spi.c \
 	mpthreadport.c \
 	$(SRC_MOD)
